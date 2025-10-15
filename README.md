@@ -38,7 +38,9 @@ To run the Python script:
 Running in Google Colab:
 
 - Open the notebook:
-  https://colab.research.google.com/github/tianwainanfeng/gpu-data-stream-demo/blob/main/gpu_streaming_demo.ipynb
+
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tianwainanfeng/gpu-data-stream-demo/blob/main/gpu_data_stream_demo.ipynb)
+
 - In Colab, you can select Runtime → Change runtime type → GPU for GPU acceleration.
 - Run all cells to execute the demo.
 
